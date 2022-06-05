@@ -1,0 +1,27 @@
+Tenant/classroom instance:
+https://digibp.herokuapp.com/camunda/app/welcome/default/#!/login
+  - Tenant: gestellter
+  - Password: password
+  - Username: gestellteruser
+
+Make:
+Sign in with Google
+  - Mail address: digibp.gestellter@gmail.com
+  - Password: MaYeJaNo$22
+  - Name: DigiBP Gestellter
+
+Mail accounts:
+  - SCA pension fund (clerk): offers.pksbv@outlook.com
+  - SCA pension fund manager: manager.scapf@outlook.com
+  - Password: MaYeJaNo$22
+
+GMail-Account:
+  - Mail address: digibp.gestellter@gmail.com
+  - Password: MaYeJaNo$22
+
+Voiceflow:
+SCA Pension Fund - Chat Assistant
+https://creator.voiceflow.com/workspace/ODkDwm3oEq
+  - Name: JasonAmstutz
+  - Mail address: jason.amstutz@students.fhnw.ch
+  - Password: JasAm@10AAA
